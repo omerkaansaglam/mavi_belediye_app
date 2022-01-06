@@ -1,0 +1,36 @@
+{
+    "introduction" : {
+        "title" : "Mavi\nBelediyesi\nMobil Uygulaması",
+        "login_button" : "Üye girişi",
+        "guest_button" : "Misafir Olarak Devam Et"
+    },
+
+    "login" : {
+        "userName" : "Kullanıcı Adı",
+        "title" : "Üye girişi",
+        "password" : "Şifre",
+        "login_button" : "Üye girişi",
+        "invalid_usernameAndPassword" : "Kullanıcı adı veya şifre hatalı"
+    },
+
+    "hello" : {
+        "title" : "Hoş Geldiniz",
+        "facilities" : "Tesisler",
+        "announcements" : "Duyurular",
+        "facilities_first" : "T",
+        "announcements_first" : "D" 
+    },
+
+    "facilities" : {
+        "all_facilities" : "Tüm Tesisler",
+        "facilities" : "Tesisler",
+        "favorited_facilities" : "Favori Tesislerim"
+    },
+
+    "announcements" : {
+        "announcements" : "Duyurular",
+        "announcement" : "Duyuru",
+        "favorited_facilities" : "Favori Tesislerim",
+        "delete" : "Sil"
+    }
+}
